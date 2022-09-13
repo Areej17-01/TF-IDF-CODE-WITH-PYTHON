@@ -1,2 +1,2 @@
 # ML-codes
-this has a minor error which makes it kinda incomplete :)
+the function file has no errors but the other one needs bit of editing :)
