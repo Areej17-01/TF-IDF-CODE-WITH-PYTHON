@@ -11,5 +11,5 @@ The examples in this repository are primarily implemented in Python, and require
 - Pandas
 - PorterStemmer from nltk.stem.porter  
 
-#Language 
+# Language 
 - Python
