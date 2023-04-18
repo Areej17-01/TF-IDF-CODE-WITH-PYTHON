@@ -12,4 +12,4 @@ The examples in this repository are primarily implemented in Python, and require
 - PorterStemmer from nltk.stem.porter  
 
 # Language 
-- Python
+- Python (jupyter)
